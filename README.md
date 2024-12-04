@@ -31,8 +31,8 @@ Certifique-se de que os arquivos estão organizados no diretório raiz de um amb
 Verifique o PHP
 Confirme que o PHP está instalado e funcionando:
 
-```bash
-php -v
+   ```bash
+   php -v
 
 Executando o Projeto
 Inicializando o Servidor Local no VS Code
@@ -40,12 +40,12 @@ Abra o projeto no Visual Studio Code.
 Acesse o terminal integrado (Ctrl + ' ou pelo menu Terminal > Novo Terminal).
 No diretório onde o projeto está localizado, execute o comando abaixo
 
-```bash
-php -S localhost:8000
+   ```bash
+   php -S localhost:8000
 
 No navegador, acesse:
-```bash
-http://localhost:8000
+   ```bash
+   http://localhost:8000
 
 
 Estrutura do Projeto
