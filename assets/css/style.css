@@ -1,0 +1,40 @@
+body {
+    background-color: #f8f9fa; /* Cinza claro */
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+.signo-form {
+    background: linear-gradient(45deg, #d8b4fe, #a78bfa); /* Gradiente azul */
+    color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 100%;
+    max-width: 400px;
+}
+.signo-form h1 {
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.result-container {
+    background: linear-gradient(45deg, #d8b4fe, #a78bfa); /* Gradiente lilás */
+    color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 100%;
+    max-width: 500px;
+}
+.result-container h1 {
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.result-container p {
+    margin-bottom: 10px;
+}
