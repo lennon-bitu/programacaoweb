@@ -24,25 +24,28 @@ Antes de executar o projeto, certifique-se de ter os seguintes requisitos instal
    ```bash
    git clone https://github.com/lennon-bitu/programacaoweb.git
 
-
-Configure o projeto
-Certifique-se de que os arquivos estão organizados no diretório raiz de um ambiente PHP funcional (ou simplesmente utilize o servidor embutido do PHP, conforme explicado abaixo).
-
-Verifique o PHP Confirme que o PHP está instalado e funcionando:
+2. **Configure o projeto**  
+ Certifique-se de que os arquivos estão organizados no diretório raiz de um ambiente PHP funcional (ou simplesmente utilize o servidor embutido do PHP, conforme explicado abaixo).
+ Verifique o PHP Confirme que o PHP está instalado e funcionando:
    ```bash
    php -v
 
+   
+---
 ## **Executando o Projeto**
 Inicializando o Servidor Local no VS Code
 Abra o projeto no Visual Studio Code.
 Acesse o terminal integrado (Ctrl + ' ou pelo menu Terminal > Novo Terminal).
-No diretório onde o projeto está localizado, execute o comando abaixo
+No diretório onde o projeto está localizado. 
+
+1. **execute o comando abaixo**  
    ```bash
    php -S localhost:8000
 
-
 No navegador, acesse:
    http://localhost:8000
+
+
 
 Estrutura do Projeto
 index.php: Página inicial com o formulário para entrada da data de nascimento.
