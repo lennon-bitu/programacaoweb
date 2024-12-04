@@ -33,3 +33,24 @@ Confirme que o PHP está instalado e funcionando:
 
 ```bash
 php -v
+
+Executando o Projeto
+Inicializando o Servidor Local no VS Code
+Abra o projeto no Visual Studio Code.
+Acesse o terminal integrado (Ctrl + ' ou pelo menu Terminal > Novo Terminal).
+No diretório onde o projeto está localizado, execute o comando abaixo
+
+```bash
+php -S localhost:8000
+
+No navegador, acesse:
+```bash
+http://localhost:8000
+
+
+Estrutura do Projeto
+index.php: Página inicial com o formulário para entrada da data de nascimento.
+show_zodiac_sign.php: Página de resultados que exibe o signo correspondente.
+signos.xml: Arquivo XML com os dados dos signos.
+
+
