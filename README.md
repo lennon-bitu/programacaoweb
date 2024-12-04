@@ -22,7 +22,7 @@ Antes de executar o projeto, certifique-se de ter os seguintes requisitos instal
 1. **Clone o repositório**  
    Faça o download do código-fonte ou clone o repositório em sua máquina:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/lennon-bitu/programacaoweb.git
 
 
 Configure o projeto
@@ -34,6 +34,7 @@ Confirme que o PHP está instalado e funcionando:
    ```bash
    php -v
 
+
 Executando o Projeto
 Inicializando o Servidor Local no VS Code
 Abra o projeto no Visual Studio Code.
@@ -42,6 +43,7 @@ No diretório onde o projeto está localizado, execute o comando abaixo
 
    ```bash
    php -S localhost:8000
+
 
 No navegador, acesse:
    ```bash
